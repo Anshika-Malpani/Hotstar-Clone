@@ -16,31 +16,31 @@ let movies = [
   {
     name: 'falcon and the winter soldier',
     des: 'Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience.',
-    image: 'images/slider 2.PNG',
+    image: 'Images/slider 2.PNG',
     video: "Videos/Falcon.mp4"
   },
   {
     name: 'loki',
     des: 'The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”',
-    image: 'images/slider 1.PNG',
+    image: 'Images/slider 1.PNG',
     video: "Videos/loki.mp4"
   },
   {
     name: 'wanda vision',
     des: 'WandaVision is a new Marvel Studios series that follows Wanda Maximoff and Vision — two super-powered beings living their ideal suburban life, which is disrupted when a series of mysterious events begin to unfold. ',
-    image: 'images/slider 3.PNG',
+    image: 'Images/slider 3.PNG',
     video: "Videos/WV.mp4"
   },
   {
     name: 'raya and the last dragon',
     des: 'Kelly Marie Tran as Raya, the fierce and virtuous warrior princess of Heart who has been training to become a Guardian of the Dragon Gem.',
-    image: 'images/slider 4.PNG',
+    image: 'Images/slider 4.PNG',
     video: "Videos/Raya.mp4"
   },
   {
     name: 'luca',
     des: 'A young boy experiences an unforgettable seaside summer on the Italian Riviera filled with gelato, pasta and endless scooter rides.',
-    image: 'images/slider 5.PNG',
+    image: 'Images/slider 5.PNG',
     video: "Videos/luca.mp4"
   }
 ];
