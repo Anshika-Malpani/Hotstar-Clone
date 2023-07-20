@@ -3,45 +3,45 @@ let movies = [
     name: "Secret Invasion",
     des:
       "A group of evil Skrulls has infiltrated all aspects of life on Earth, and if someone doesn't intervene and stop them, they'll control the planet before the heroes even realize what's going on",
-    image: "Images/Secret Invasion.png",
-    video: "Videos/SI.mp4"
+    image: "images/Secret Invasion.png",
+    video: "videos/SI.mp4"
   },
   {
     name: "Night Manager",
     des:
       "Former Indian Navy Lieutenant Shantanu Shaan Sengupta, is currently working as a night manager in a premiere star hotel in Dhaka, amidst the Rohingya genocide in 2017. ",
-    image: "Images/Night Manager.png",
-    video: "Videos/NM.mp4"
+    image: "images/Night Manager.png",
+    video: "videos/NM.mp4"
   },
   {
     name: 'falcon and the winter soldier',
     des: 'Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience.',
-    image: 'Images/slider 2.PNG',
-    video: "Videos/Falcon.mp4"
+    image: 'images/slider 2.PNG',
+    video: "videos/Falcon.mp4"
   },
   {
     name: 'loki',
     des: 'The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”',
-    image: 'Images/slider 1.PNG',
-    video: "Videos/loki.mp4"
+    image: 'images/slider 1.PNG',
+    video: "videos/loki.mp4"
   },
   {
     name: 'wanda vision',
     des: 'WandaVision is a new Marvel Studios series that follows Wanda Maximoff and Vision — two super-powered beings living their ideal suburban life, which is disrupted when a series of mysterious events begin to unfold. ',
-    image: 'Images/slider 3.PNG',
-    video: "Videos/WV.mp4"
+    image: 'images/slider 3.PNG',
+    video: "videos/WV.mp4"
   },
   {
     name: 'raya and the last dragon',
     des: 'Kelly Marie Tran as Raya, the fierce and virtuous warrior princess of Heart who has been training to become a Guardian of the Dragon Gem.',
-    image: 'Images/slider 4.PNG',
-    video: "Videos/Raya.mp4"
+    image: 'images/slider 4.PNG',
+    video: "videos/Raya.mp4"
   },
   {
     name: 'luca',
     des: 'A young boy experiences an unforgettable seaside summer on the Italian Riviera filled with gelato, pasta and endless scooter rides.',
-    image: 'Images/slider 5.PNG',
-    video: "Videos/luca.mp4"
+    image: 'images/slider 5.PNG',
+    video: "videos/luca.mp4"
   }
 ];
 const carousel = document.querySelector('.carousel');
